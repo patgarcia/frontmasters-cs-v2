@@ -1,2 +1,2 @@
-# frontmasters-cs-v2
+# algorithms-exercises
 Created with CodeSandbox
